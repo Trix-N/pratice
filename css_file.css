@@ -1,0 +1,5 @@
+.polygon-popup .leaflet-popup-content {
+    margin: 1.125rem 1.25rem 1.3125rem;
+    color: #13303a;
+    width: 13rem !important;
+}
