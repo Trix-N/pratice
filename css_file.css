@@ -3,3 +3,20 @@
     color: #13303a;
     width: 13rem !important;
 }
+.leaflet-popup {
+    position: absolute;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.leaflet-zoom-animated {
+    -webkit-transform-origin: 0 0;
+    -ms-transform-origin: 0 0;
+    transform-origin: 0 0;
+}
+
+.polygon-popup .leaflet-popup-content {
+    margin: 1.125rem 1.25rem 1.3125rem;
+    color: #13303a;
+    width: 13rem !important;
+}
